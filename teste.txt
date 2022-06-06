@@ -1,0 +1,8 @@
+plataforma.insole.com.br
+monitoramento.insole.com.br
+ticket.insole.com.br
+cliente.insole.com.br
+broker.insole.com.br
+cred.insole.com.br
+scoring.insole.com.br
+sgmrc.insole.com.br
